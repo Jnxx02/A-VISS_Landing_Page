@@ -1,0 +1,43 @@
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Node (if later used)
+
+node_modules/
+
+# Build folders
+
+dist/
+build/
+
+# Environment files
+
+.env
+.env.local
+
+# Python cache (if accidentally added)
+
+**pycache**/
+*.pyc
