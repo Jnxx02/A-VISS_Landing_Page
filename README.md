@@ -1,5 +1,9 @@
 # A-VISS Landing Page
 
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub_Pages-success)
+![Research Project](https://img.shields.io/badge/Type-Research_Project-blue)
+![Status](https://img.shields.io/badge/Status-Final-brightgreen)
+
 A premium research showcase website for **A-VISS (Automated Vital Intelligence for Stress Surveillance)**.
 
 ## Overview
